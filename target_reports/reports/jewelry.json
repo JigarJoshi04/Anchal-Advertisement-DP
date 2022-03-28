@@ -1,0 +1,72 @@
+{
+    "bracelet": {
+        "premium": {
+            "age": "30-50",
+            "income": "100k -200k",
+            "gender": "Female",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "30-50",
+            "income": "50 -80k",
+            "gender": "Female",
+            "education": "Educated"
+        }
+    },
+    "necklace": {
+        "premium": {
+            "age": "30-50",
+            "income": "100k -200k",
+            "gender": "Female",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "30-50",
+            "income": "30k -60k",
+            "gender": "Female",
+            "education": "Educated"
+        }
+    },
+    "ring": {
+        "premium": {
+            "age": "18-30",
+            "income": "100k -200k",
+            "gender": "Male & Female",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "18-30",
+            "income": "50k -80k",
+            "gender": "Male & Female",
+            "education": "Educated"
+        }
+    },
+    "earring": {
+        "premium": {
+            "age": "30-50",
+            "income": "100k -200k",
+            "gender": "Female",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "30-50",
+            "income": "40k -60k",
+            "gender": "Female",
+            "education": "Educated"
+        }
+    },
+    "menscollection": {
+        "premium": {
+            "age": "30-50",
+            "income": "100k -200k",
+            "gender": "Male",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "30-50",
+            "income": "30k -60k",
+            "gender": "Male",
+            "education": "Educated"
+        }
+    }
+}

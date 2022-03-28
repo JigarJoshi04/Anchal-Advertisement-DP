@@ -1,0 +1,44 @@
+{
+    "menswear": {
+        "premium": {
+            "age": "18-30",
+            "income": "100k -200k",
+            "gender": "Male",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "18-30",
+            "income": "30k -60k",
+            "gender": "Male",
+            "education": "Educated"
+        }
+    },
+    "womenswear": {
+        "premium": {
+            "age": "18-30",
+            "income": "100k -200k",
+            "gender": "Female",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "18-30",
+            "income": "50k -80k",
+            "gender": "Female",
+            "education": "Educated"
+        }
+    },
+    "kidswear": {
+        "premium": {
+            "age": "30-50",
+            "income": "100k -200k",
+            "gender": "Male & Female",
+            "education": "Educated"
+        },
+        "mid-range": {
+            "age": "30-50",
+            "income": "50k -80k",
+            "gender": "Male & Female",
+            "education": "Educated"
+        }
+    }
+}
