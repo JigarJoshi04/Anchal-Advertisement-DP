@@ -3,5 +3,5 @@ services:
   backend:
     container_name: AdsAnalysis
     build: .
-    port:
+    ports:
       - 80:5000
